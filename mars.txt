@@ -1,0 +1,47 @@
+This is the first time I am adding to the Github and I really like it
+
+WHAT
+Problem Statement: What are the relevant physics in the coastal-estuarine-tidal regions and the ideal modeling framework for total water forecasts in tidal environments?
+WHY
+Goal: Students will work on one or multiple science objectives from the list below to:
+- Evaluate the threshold of the tidal signal amplitude to identify the limit of the coastal zone “influence” for tidal predictions in upland reaches.
+- Investigate the relevant physical processes contributing to total water prediction (wind patterns; topography; wave action; roughness/vegetation, sediment transport).
+- Investigate the relevant forcing conditions besides the riverine/coastal boundary conditions that are relevant in these reaches. Investigate the spatial scale relevance of these processes (i.e. the spatial scale of the transition zone between inland and coastal hydraulics).
+- Evaluate the effects of anthropogenic changes impacting the coastal/riverine interface delineation (e.g. deep/wide ship channels convey tides/surges deep inland).
+- Evaluate numerical modeling configurations relevant to water predictions in these areas (e.g., Wetting and drying, 1D vs 2D vs 3D). Specific codes used will be discussed with the students.
+- Perform an intermodel comparison to evaluate the computational cost vs accuracy of simulating total water forecasts in these reaches using different models (e.g., D-FLOW, ADCIRC and GEOCLAW)
+Larger Impact: beyond the SI
+Students will support the development of recommendations for generalized coastal environments to identify an efficient transition between 3D-2D-1D hydraulic/hydrodynamic models in tidal reaches of the NWM. This work will also support defining the upstream extent of coastal forecast models to accurately predict total water forecasts in the tidal regions. Developing this coastal coupling framework will support decisions related to flooding/inundation, water supply, water quality, and maritime commerce/economy.
+HOW
+Approach:
+The projects will be carried out utilizing idealized model domains that will be strategically designed to explore the effects of different environments that are representative of the US coastline. Some proposed domains are:
+- Ocean + marsh + sinuous rivers (possibly include hydraulic structures)
+- Ocean + estuary + rectilineal rivers
+- Estuary + small reaches
+Students will:
+? Setup a synthetic model domain to fully control the contributing processes
+? Examine the complex dynamics exhibited at the interface and transition from inland watershed hydraulics to coastal multi-dimensional dynamics.
+? Provide insights about delineating the interface/band where the transition takes place.
+Training opportunities:
+D-FLOW training
+Additional training on ADCIRC and GEOCLAW as needed
+Supplementary Materials:
+Students are encouraged to visit these websites to develop preliminary familiarity with the Delft-FM software:
+https://www.deltares.nl/en/software/delft3d-flexible-mesh-suite/
+There is a series of helpful videos here for the students to explore: https://www.deltares.nl/en/software/delft3d-flexible-mesh-suite/#demo-screenshots
+Students can also browse this site to gain some perspective on the history and application of the ADCIRC model:
+https://adcirc.org/
+National Water Model (COMET videos)
+Science and Products https://www.meted.ucar.edu/training_module.php?id=1296#.XK98qUhKiUk
+Early Performance https://www.meted.ucar.edu/training_module.php?id=1296#.XK98qUhKiUk
+DATA - What (or what types of) input data will be required?
+The geometry of the idealized models will be co-designed by the students with support and guidance from the Theme Leads.
+The Theme leads will prepare boundary data (tides, wind field, etc.) for the students to use as environmental forcings to drive the models.
+Q1. It is important because we can understand that people can be biased implicitly, and we can be careful ourself  about biases while taking any decision.
+Q2. IAT was like a different test, it feels like a real psychological test 
+Q3. When it was reversing the order of the question, it feels difficult to follow and I was taking to time to cope with the change and I was unintentionally making mistakes.  
+What can we do to become HP C RT?
+
+The two moons may be a problem for Wolfman
+
+
